@@ -1,3 +1,4 @@
 # nxtwave_assessment
 
-![image](https://github.com/user-attachments/assets/5f58d450-39f9-4eda-b98c-1a6229578f02)
+![image](https://github.com/user-attachments/assets/e2fb0b04-4e1e-49e4-a64d-e4d15f80350a)
+
