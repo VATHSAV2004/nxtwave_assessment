@@ -1,0 +1,29 @@
+###
+POST http://localhost:3001/tasks
+Content-Type: application/json
+
+{
+    "id":2,"title":"title2","description":"description2"
+}
+
+###
+
+GET http://localhost:3001/tasks
+
+
+
+###
+
+GET http://localhost:3001/tasks/2
+
+###
+PUT http://localhost:3001/tasks/1
+Content-Type: application/json
+
+###
+{
+    "title":"updatedtitle","description":"updateddescription2"
+}
+
+###
+DELETE http://localhost:3001/tasks/1
